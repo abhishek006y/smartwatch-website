@@ -1,2 +1,2 @@
 # smartwatch-website
- smartwatch website 
+ smartwatch website using html and css
